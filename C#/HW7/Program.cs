@@ -1,5 +1,5 @@
 ﻿//Задача 47 Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
-
+/*
 double[,] Random2dArray(int a, int b)
 {
     while (a <= 0)
@@ -38,7 +38,7 @@ void Show2dArray(double[,] array)
 
 Console.Write("Введите количество строк двумерного массива: ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите количество столбцов в двумерном массиве: ");
+Console.Write("Введите количество столбцов двумерного массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 double[,] my2dArray = Random2dArray(m, n);
@@ -46,3 +46,5 @@ double[,] my2dArray = Random2dArray(m, n);
 Console.WriteLine("Сгенерированный двумерный массив:");
 
 Show2dArray(my2dArray);
+*/
+
