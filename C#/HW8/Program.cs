@@ -152,7 +152,7 @@ Show2dArray(my2dArray);
 SmallAmount(LineSum(my2dArray));
 */
 
-//Задача 54: Заполните спирально массив
+//Задача 62: Заполните спирально массив
 /*
 
 int[,] Null2dArray(int a, int b)
