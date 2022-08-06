@@ -1,4 +1,4 @@
-﻿string[] ArrayWords = new string[4] {"Hello", "2", "World", ":-)"};
+﻿string[] ArrayWords = new string[6] {"Pavel", "you", "are", "good", "Teacher", ":-)" };
 string[] ArrayWords2 = new string [ArrayWords.Length];
 
 void AskWords(string[] ArrayWords, string[] ArrayWords2)
